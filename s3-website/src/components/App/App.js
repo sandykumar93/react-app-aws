@@ -3,7 +3,7 @@ import React from "react";
 import { Layout, Typography, Button } from "antd";
 import styled from "styled-components/macro";
 import DataTable from "../Table/Table";
-import { fetchData } from "../../api/api";
+// import { fetchData } from "../../api/api";
 import { columnsData } from "../../columnsData";
 
 /* CODE */
