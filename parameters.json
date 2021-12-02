@@ -1,6 +1,5 @@
 {
-    "CognitoUserPoolDomain":"sdemolaappauthdomain",
     "Region":"us-east-1",
-    "S3BucketName":"sdemoacd-laapp-website-hosting-bucket",
-    "StackName":"sdemoacd-laapp-leave-application-stack"
+    "S3BucketName":"sandy-react-website-hosting-bucket",
+    "StackName":"sandy-react-application-stack"
 }
