@@ -1,5 +1,5 @@
 {
     "Region":"us-east-1",
-    "S3BucketName":"sandy-react-website-hosting-bucket",
-    "StackName":"sandy-react-application-stack"
+    "S3BucketName":"sandy2-react-website-hosting-bucket",
+    "StackName":"sandy2-react-application-stack"
 }
